@@ -1,0 +1,7 @@
+1 Maria Sepik 145678
+2 Bartłomiej Bąk 125333
+3 Lech Pazura 343212
+4 Anna Leszcz 555677
+5 Lena Anna 456789
+6 Waldemar Piątek 908743
+7 Agnieszka Sęp 567123
